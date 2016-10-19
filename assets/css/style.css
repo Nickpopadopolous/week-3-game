@@ -1,0 +1,31 @@
+.page-header {
+padding-top: 0;
+margin:0 0;
+padding-bottom: 0;
+}
+
+p {
+ font-family: Comic Sans MS, Comic Sans, cursive;
+ text-align: center;
+ font-size: 20px;
+}
+
+body {
+	background: #9FB6CD;
+	background: linear-gradient(to bottom right, #9FB6CD, white);
+
+}
+
+#main {
+	background: white;
+	max-width: 800px;
+	margin-top: 5px;
+	margin-left: 5px;
+	height: 543px;
+}
+
+.stick {
+	float: left;
+	margin-top: 150px;
+}
+
